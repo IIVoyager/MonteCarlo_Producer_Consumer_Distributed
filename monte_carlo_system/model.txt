@@ -1,0 +1,3 @@
+variable1;uniform;0;10
+variable2;normal;5;2
+variable3;choice;1;2;3

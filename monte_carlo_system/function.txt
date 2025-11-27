@@ -1,0 +1,2 @@
+def funcion_ejemplo(variable1, variable2, variable3):
+    return (variable1 * variable2) + variable3
